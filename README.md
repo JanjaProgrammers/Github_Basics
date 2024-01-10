@@ -14,4 +14,12 @@ Modified State
 
 Staged State
 
+```bash
+    git commit -m "Commit Message"
+```
+
 Committed State
+
+```bash
+    git push
+```
